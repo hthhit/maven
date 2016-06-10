@@ -47,19 +47,19 @@ under the License.
       <artifactId>maven-repository-metadata</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.eclipse.aether</groupId>
+      <groupId>org.apache.maven.aether</groupId>
       <artifactId>aether-api</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.eclipse.aether</groupId>
+      <groupId>org.apache.maven.aether</groupId>
       <artifactId>aether-spi</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.eclipse.aether</groupId>
+      <groupId>org.apache.maven.aether</groupId>
       <artifactId>aether-util</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.eclipse.aether</groupId>
+      <groupId>org.apache.maven.aether</groupId>
       <artifactId>aether-impl</artifactId>
     </dependency>
     <dependency>
@@ -92,12 +92,12 @@ under the License.
     </dependency>
     <!-- Testing -->
     <dependency>
-      <groupId>org.eclipse.aether</groupId>
+      <groupId>org.apache.maven.aether</groupId>
       <artifactId>aether-connector-basic</artifactId>
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>org.eclipse.aether</groupId>
+      <groupId>org.apache.maven.aether</groupId>
       <artifactId>aether-transport-wagon</artifactId>
       <scope>test</scope>
     </dependency>
